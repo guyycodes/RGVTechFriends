@@ -65,7 +65,7 @@ img {
 	width: auto;
 }
 #header div ul li a {
-	color: rgb(0, 255, 4);
+	color: #000000;
 	font-family: "Arial Black";
 	font-size: 14px;
 	font-weight: normal;
@@ -113,7 +113,7 @@ img {
 }
 #body.home div.header div h1 {
 	background: none;
-	color: #000000;
+	color: green;
 	display: block;
 	font-family: 'Arial Black';
 	font-size: 110px;
